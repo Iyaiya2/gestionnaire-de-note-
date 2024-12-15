@@ -1,0 +1,16 @@
+# Gestionnaire de Notes
+
+## Description
+
+Le **Gestionnaire de Notes** est une application web simple permettant aux utilisateurs d'ajouter, modifier et supprimer des notes. L'application utilise la programmation orientée objet (POO) pour gérer les notes et le **Local Storage** pour sauvegarder les données .
+
+Les utilisateurs peuvent également rechercher des notes grâce à un champ de recherche intégré. Cette application est construite avec HTML, CSS et JavaScript.
+
+## Fonctionnalités
+
+- **Ajouter des notes** : Permet d'ajouter une nouvelle note avec un titre et un contenu.
+- **Modifier des notes** : Permet de modifier le contenu d'une note existante.
+- **Supprimer des notes** : Permet de supprimer une note.
+- **Sauvegarde locale** : Les notes sont sauvegardées dans le Local Storage du navigateur, ce qui permet de les conserver même après un rafraîchissement de la page.
+- **Recherche** : Un champ de recherche permet de filtrer les notes par leur titre ou contenu.
+
